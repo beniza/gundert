@@ -1,6 +1,8 @@
 _build
 output/*
+fonts/*
 *.md
+mala.yml
 
 chapters/appendix.adoc
 chapters/bibliography.adoc
@@ -8,5 +10,6 @@ chapters/colophon.adoc
 chapters/chapter2.adoc
 chapters/chapter3.adoc
 chapters/introduction.adoc
+
 
 .gitignore
