@@ -7,9 +7,11 @@ end
 desc "Create different file outputs"
 task :ascii  do
   system("asciidoctor -o output/master.html master.adoc")
-  system("asciidoctor-epub3 -D output master.adoc")
+  # system("asciidoctor-epub3 -D output master.adoc")
 
-  system("asciidoctor-pdf -o output/master.pdf master.adoc ")
+  # system("asciidoctor-pdf -o output/master.pdf master.adoc ")
+
+  # system("asciidoctor-pdf -a pdf-theme=mala.yml -a pdf-fontsdir=./fonts -o output/master.pdf master.adoc ")
 end
 
 def install_plugin(name)
