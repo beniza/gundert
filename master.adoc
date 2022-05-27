@@ -14,25 +14,35 @@
 include::chapters/about.adoc[]
 include::chapters/preface.adoc[]
 
-== Introduction
+== ഡോ. ഹെർമൻ ഗുണ്ടർട്ടിൻ്റെ ജീവചരിത്രം
 
-include::chapters/introduction.adoc[]
+മലയാളഭാഷയ്ക്കും വടക്കൻ‍മലബാറിലെ ക്രിസ്തീയ, സാമൂഹ്യപ്രവർത്തനങ്ങൾക്കും അമൂല്യസംഭാവനകൾ നൽകിയ ഡോ. ഹെർമൻ ഗുണ്ടർട്ടിൻ്റെ ജീവചരിത്രം. 
 
-== First Part
 
-include::chapters/chapter2.adoc[]
+// include::chapters/introduction.adoc[]
 
-== Second Part
+== ഹെർമൻ ഗുണ്ടർട്ട്
 
-include::chapters/chapter3.adoc[]
+// include::chapters/chapter2.adoc[]
+include::chapters/childhood.adoc[]
 
-[colophon]
-include::chapters/colophon.adoc[]
+include::chapters/conversion.adoc[]
 
-include::chapters/bibliography.adoc[]
+include::chapters/journey_to_india.adoc[]
 
-[appendix]
-include::chapters/appendix.adoc[]
+include::chapters/to_malabar[]
+
+// == Second Part
+
+// include::chapters/chapter3.adoc[]
+
+// [colophon]
+// include::chapters/colophon.adoc[]
+
+// include::chapters/bibliography.adoc[]
+
+// [appendix]
+// include::chapters/appendix.adoc[]
 
 ifdef::backend-docbook[]
 [index]
